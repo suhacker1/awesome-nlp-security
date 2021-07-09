@@ -6,6 +6,7 @@
 - [**Auditing Data Provenance in Text-Generation Models**](https://dl.acm.org/doi/pdf/10.1145/3292500.3330885) (Song and Shmatikov, 2019)
 - [**Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?**](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00299) (Hisamoto et al., 2020) 
 - [**ADePT: Auto-encoder based Differentially Private Text Transformation**](https://arxiv.org/abs/2102.01502) (Krishna et al., 2021)
+- [**KART: Privacy Leakage Framework of Language Models Pre-trained with Clinical Records**](https://arxiv.org/abs/2101.00036) (Nakamura et al., 2020)
 - [**Membership Inference Attack Susceptibility of Clinical Language Models**](https://arxiv.org/abs/2104.08305) (Jagannatha et al., 2021)
 - [**Membership Inference on Word Embedding and Beyond**](https://arxiv.org/abs/2106.11384) (Mahloujifar et al., 2021)
 - [**Privacy Risks of General-Purpose Language Models**](https://www.researchgate.net/profile/Xudong_Pan3/publication/340965355_Privacy_Risks_of_General-Purpose_Language_Models/links/5ea7ca55a6fdccd7945b6a7d/Privacy-Risks-of-General-Purpose-Language-Models.pdf) (Pan et al., 2020)
