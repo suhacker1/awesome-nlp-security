@@ -1,4 +1,6 @@
-# Awesome Large Language Model Security 
+# NLP Security 
+
+*Emphasis on large language models*
 
 - [**Extracting Training Data from Large Language Models**](https://arxiv.org/abs/2012.07805) (Carlini et al., 2020)
 - [**Auditing Data Provenance in Text-Generation Models**](https://dl.acm.org/doi/pdf/10.1145/3292500.3330885) (Song and Shmatikov, 2019)
